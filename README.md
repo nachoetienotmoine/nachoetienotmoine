@@ -1,16 +1,25 @@
-### Hi there 👋
+Nacho-Etienot/README.md
 
-<!--
-**nachoetienotmoine/nachoetienotmoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola a todos! 👋
 
-Here are some ideas to get you started:
+Soy Nacho, y  quiero contarles un poco sobre mí!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acerca de mí
+💻 Soy un apasionado de la tecnología.
+🎓 Me recibí de Contador Publico por la UNC, pero actualmente perfecciono mi formación en Desarrollo de Software en Digital House.
+💼 Busco poder insertarme laboralmente en el área de Desarrollo de Software.
+💬 Me interesa conectar con profesionales del mundo IT, las herramientas de desarrollo que manejo son:
+Stack M. E. R. N. 
+Express
+NodeJS 
+React 
+JavaScript
+HTML
+CSS
+JQuery
+SCRUM
+Manejo y versionado de proyectos con GIT y GitHub
+WireFrames, API's, servidores y Bases de Datos
+Visual Studio Code
+Diseño Web
+Fundamentos de Programación
