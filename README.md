@@ -31,7 +31,9 @@ Diseño Web  |  Fundamentos de Programación  | MongoDB
     <a href="mailto:nachoetienotmoine@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Nacho Etienot's Gmail" height="30" width="30">
     </a> 
+    <a href="https://api.whatsapp.com/send?phone=543512056946&app=facebook&entry_point=page_cta&fbclid=IwAR3hvRCO88ZLGoX7mWo74OEPl0dvxdaupVOP_OnenOyDfs-C2kj_YrsjXoA" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="Nacho Etienot's Wsp" height="30" width="30">
+    </a> 
 </p>
-
 
 
