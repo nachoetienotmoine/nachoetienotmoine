@@ -1,13 +1,14 @@
 Nacho-Etienot/README.md
 
-Hola a todos! 👋
+###Hola a todos! 👋###
 
-Soy Nacho, y  quiero contarles un poco sobre mí!
+##Soy Nacho, y  quiero contarles un poco sobre mí!##
 
-Acerca de mí
+Acerca de mí  
+
 💻 Soy un apasionado de la tecnología  
 
-🎓 Me recibí de Contador Publico por la UNC, pero actualmente perfecciono mi formación en Desarrollo de Software en Digital House  
+🎓 Me recibí de Contador Publico por la UNC, pero actualmente perfecciono mi formación en Desarrollo Web en Digital House  
 
 💼 Busco poder insertarme laboralmente en el área de Desarrollo de Software  
 
