@@ -24,4 +24,6 @@ Diseño Web  |  Fundamentos de Programación  | MongoDB
 
 ### Contáctame  
 
-![Esta es una imagen](https://blog.waalaxy.com/wp-content/uploads/2021/01/index.png)
+<a href="https://www.linkedin.com/in/nachoetienot/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nacho Etienot's LinkedIn Profile" height="30" width="30">
+</a>
