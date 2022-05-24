@@ -24,10 +24,14 @@ Diseño Web  |  Fundamentos de Programación  | MongoDB
 
 ### Contáctame  
 
-<a href="https://www.linkedin.com/in/nachoetienot/" target="_blank">
+<p align="center">
+    <a href="https://www.linkedin.com/in/nachoetienot/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nacho Etienot's LinkedIn Profile" height="30" width="30">
-</a>
-<a href="mailto:nachoetienotmoine@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-tile.svg" alt="Nacho Etienot's Gmail" height="30" width="30">
-</a>
+    </a>
+    <a href="mailto:nachoetienotmoine@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Nacho Etienot's Gmail" height="30" width="30">
+    </a> 
+</p>
+
+
 
