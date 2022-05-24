@@ -8,7 +8,7 @@ Nacho-Etienot/README.md
 
 🎓 Me recibí de Contador Publico por la UNC, pero actualmente perfecciono mi formación como Desarrollador Web en Digital House  
 
-💼 Busco poder insertarme laboralmente en el área de Desarrollo y Mantenimiento de Software  
+💼 Busco poder insertarme laboralmente en áreas de Desarrollo y Mantenimiento de Software  
 
 💬 Me interesa conectar con profesionales del mundo IT, las herramientas de desarrollo que manejo son:  
 
