@@ -6,9 +6,9 @@ Nacho-Etienot/README.md
 
 💻 Soy un apasionado de la tecnología  
 
-🎓 Me recibí de Contador Publico por la UNC, pero actualmente perfecciono mi formación en Desarrollo Web en Digital House  
+🎓 Me recibí de Contador Publico por la UNC, pero actualmente perfecciono mi formación como Desarrollador Web en Digital House  
 
-💼 Busco poder insertarme laboralmente en el área de Desarrollo de Software  
+💼 Busco poder insertarme laboralmente en el área de Desarrollo y Mantenimiento de Software  
 
 💬 Me interesa conectar con profesionales del mundo IT, las herramientas de desarrollo que manejo son:  
 
@@ -22,9 +22,11 @@ WireFrames, API's, servidores y Bases de Datos  |  Visual Studio Code  |
 
 Diseño Web  |  Fundamentos de Programación  | MongoDB
 
-### Contáctame  
-
 <p align="center">
+
+### Contáctame ! :smiley:
+
+
     <a href="https://www.linkedin.com/in/nachoetienot/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Nacho Etienot's LinkedIn Profile" height="30" width="30">
     </a>
