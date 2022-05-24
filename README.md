@@ -4,8 +4,6 @@ Nacho-Etienot/README.md
 
 ## Soy Nacho, y  quiero contarles un poco sobre mí!
 
-Acerca de mí  
-
 💻 Soy un apasionado de la tecnología  
 
 🎓 Me recibí de Contador Publico por la UNC, pero actualmente perfecciono mi formación en Desarrollo Web en Digital House  
@@ -16,15 +14,7 @@ Acerca de mí
 
 Stack M. E. R. N.   
 
-Express  
-
-NodeJS  
-
-React  
-
-JavaScript  
-
-HTML  
+Express  ||  NodeJS  ||  React  ||  JavaScript  ||  HTML  
 
 CSS  
 
