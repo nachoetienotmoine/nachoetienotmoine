@@ -1,8 +1,8 @@
 Nacho-Etienot/README.md
 
-###Hola a todos! 👋###
+### Hola a todos! 👋
 
-##Soy Nacho, y  quiero contarles un poco sobre mí!##
+## Soy Nacho, y  quiero contarles un poco sobre mí!
 
 Acerca de mí  
 
