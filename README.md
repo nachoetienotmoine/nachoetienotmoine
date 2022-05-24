@@ -14,20 +14,14 @@ Nacho-Etienot/README.md
 
 Stack M. E. R. N.   
 
-Express  ||  NodeJS  ||  React  ||  JavaScript  ||  HTML  
+Express  ||  NodeJS  ||  React  ||  JavaScript  ||  HTML  ||  CSS  ||
 
-CSS  
+JQuery   ||  SCRUM  ||  Manejo y versionado de proyectos con GIT y GitHub  ||   
 
-JQuery  
+WireFrames, API's, servidores y Bases de Datos  ||  Visual Studio Code  ||
 
-SCRUM  
+Diseño Web  ||  Fundamentos de Programación  || Mongo
 
-Manejo y versionado de proyectos con GIT y GitHub  
+### Contáctame  
 
-WireFrames, API's, servidores y Bases de Datos  
 
-Visual Studio Code  
-
-Diseño Web  
-
-Fundamentos de Programación
